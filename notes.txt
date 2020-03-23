@@ -1,0 +1,2 @@
+Sun 21/12/2014 17:51:55.12:
+	Very like sqlexec but focussed on a particular job, namely Adwords Mutation SQL
